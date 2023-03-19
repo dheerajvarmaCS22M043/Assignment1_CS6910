@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors
 import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
-from sklearn.metrics import accuracy_score, mean_squared_error, log_loss
+from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 
 import warnings
