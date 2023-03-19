@@ -6,4 +6,4 @@
  * link to the report: https://api.wandb.ai/links/cs22m043/woxf9thc
  * Github file with Name: "Question2-6" contains code for forward propagation, backward propagation, optimisation functions and wandb part.
  So, it serves as the solution for Questions 2 to 6.
- 
+ * Note: If anything is not accessible, please contact me: cs22m043@smail.iitm.ac.in
